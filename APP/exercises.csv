@@ -1,0 +1,1487 @@
+disease,age,exercises
+chol,35,"biking,
+weight lifting,
+aerobic dancing"
+chol,36,"biking,
+weight-lifting,
+aerobic dancing"
+chol,37,"biking,
+weight-lifting,
+aerobic dancing"
+chol,38,"biking,
+weight-lifting,
+aerobic dancing"
+chol,39,"biking,
+weight-lifting,
+aerobic dancing"
+chol,40,"biking,
+weight-lifting,
+aerobic dancing"
+chol,41,"biking,
+weight-lifting,
+aerobic dancing"
+chol,42,"biking,
+weight-lifting,
+aerobic dancing"
+chol,43,"biking,
+weight-lifting,
+aerobic dancing"
+chol,44,"biking,
+weight-lifting,
+aerobic dancing"
+chol,45,"biking,
+weight-lifting,
+aerobic dancing"
+chol,46,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,47,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,48,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,49,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,50,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,51,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,52,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,53,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,54,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,55,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,56,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,57,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,58,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,59,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,60,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,61,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,62,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,63,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,64,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,65,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,66,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,67,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,68,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,69,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,70,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,71,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,72,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,73,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,74,"jogging,       
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,75,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,76,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,77,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,78,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,79,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,80,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,81,"jogging,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,82,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,83,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,84,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,85,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,86,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,87,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,88,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,89,"jogging,               
+walking,        
+yoga,        
+moderate exercises        "
+chol,90,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,91,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,92,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,93,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,94,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,95,"jogging,        
+walking,        
+yoga,        
+moderate exercises        "
+chol,96,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,97,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+chol,98,"walking,        
+yoga,        
+moderate exercises        "
+chol,99,"walking,        
+yoga,        
+moderate exercises        "
+chol,100,"walking,        
+yoga,        
+moderate exercises        "
+fbs,35,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,36,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,37,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,38,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,39,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,40,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,41,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,42,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,43,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,44,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,45,"steady-state cardio,
+brisk walking,
+stay hydrated"
+fbs,46,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,47,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,48,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,49,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,50,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,51,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,52,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,53,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,54,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,55,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,56,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,57,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,58,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,59,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,60,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,61,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,62,"jogging        
+bicycling        
+walking        
+yoga        
+moderate exercises        "
+fbs,63,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,64,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,65,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,66,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,67,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,68,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,69,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,70,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,71,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,72,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,73,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,74,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,75,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,76,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,77,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,78,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,79,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,80,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,81,"jogging,        
+bicycling,        
+walking,       
+yoga,        
+moderate exercises        "
+fbs,82,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,83,"jogging,        
+bicycling,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,84,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,85,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,86,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,87,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,88,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,89,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,90,"jogging,        
+walking,        
+yoga,        
+moderate exercises        "
+fbs,91,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,92,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,93,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,94,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,95,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,96,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,97,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+fbs,98,"jogging,               
+walking,        
+yoga,        
+moderate exercises        "
+fbs,99,"jogging,             
+walking,        
+yoga,        
+moderate exercises        "
+fbs,100,"jogging,                
+walking,        
+yoga,        
+moderate exercises        "
+typical angina,NA,"meditation,
+yoga,
+deep breathing"
+atypical angina,NA,"light exercises,
+jogging"
+non-anginal pain,NA,"go for medications,
+proper rest"
+asymptotic pain,NA,"moderate exercises,
+proper rest"
+max. heart rate,0,"breathing exercises,
+practice mindfulness,
+sound sleeping, 
+relaxation exercises"
+max. heart rate,1,"steady-state cardio,
+brisk walking,
+stay hydrated,"
+max. heart rate,2,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,3,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,4,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,5,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,6,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,7,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,8,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,9,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,10,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,11,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,12,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,13,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,14,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,15,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,16,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,17,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,18,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,19,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,20,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,21,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,22,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,23,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,24,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,25,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,26,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,27,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,28,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,29,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,30,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,31,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,32,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,33,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,34,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,35,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,36,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,37,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,38,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,39,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,40,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,41,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,42,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,43,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,44,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,45,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,46,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,47,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,48,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,49,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,50,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,51,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,52,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,53,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,54,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,55,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,56,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,57,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,58,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,59,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,60,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,61,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,62,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,63,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,64,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,65,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,66,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,67,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,68,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,69,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,70,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,71,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,72,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,73,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,74,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,75,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,76,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,77,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,78,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,79,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,80,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,81,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,82,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,83,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,84,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,85,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,86,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,87,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,88,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,89,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,90,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,91,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,92,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,93,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,94,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,95,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,96,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,97,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,98,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,99,"steady-state cardio,
+brisk walking,
+stay hydrated"
+max. heart rate,100,"steady-state cardio,
+brisk walking,
+stay hydrated"
+exang,1," yoga,
+slow walking,
+water walking,
+light aerobic exercises,"
+exang,2," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,3," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,4," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,5," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,6," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,7," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,8," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,9," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,10," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,11," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,12," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,13," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,14," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,15," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,16," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,17," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,18," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,19," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,20," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,21," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,22," yoga
+slow walking
+water walking
+light aerobic exercises"
+exang,23," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,24," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,25," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,26," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,27," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,28," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,29," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,30," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,31," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,32," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,33," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,34," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,35," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,36," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,37," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,38," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,39," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,40," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,41," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,42," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,43," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,44," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,45," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,46," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,47," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,48," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,49," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,50," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,51," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,52," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,53," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,54," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,55," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,56," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,57," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,58," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,59," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,60," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,61," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,62," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,63," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,64," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,65," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,66," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,67," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,68," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,69," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,70," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,71," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,72," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,73," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,74," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,75," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,76," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,77," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,78," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,79," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,80," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,81," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,82," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,83," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,84," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,85," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,86," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,87," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,88," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,89," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,90," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,91," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,92," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,93," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,94," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,95," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,96," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,97," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,98," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,99," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+exang,100," yoga,
+slow walking,
+water walking,
+light aerobic exercises"
+resting bp,30,"brisk walking,
+muscle strengthning activities"
+resting bp,31,"brisk walking,
+muscle strengthning activities"
+resting bp,32,"brisk walking,
+muscle strengthning activities"
+resting bp,33,"brisk walking,
+muscle strengthning activities"
+resting bp,34,"brisk walking,
+muscle strengthning activities"
+resting bp,35,"brisk walking,
+muscle strengthning activities"
+resting bp,36,"brisk walking,
+muscle strengthning activities"
+resting bp,37,"brisk walking,
+muscle strengthning activities"
+resting bp,38,"brisk walking,
+muscle strengthning activities"
+resting bp,39,"brisk walking,
+muscle strengthning activities"
+resting bp,40,"brisk walking,
+muscle strengthning activities"
+resting bp,41,"brisk walking,
+muscle strengthning activities"
+resting bp,42,"brisk walking,
+muscle strengthning activities"
+resting bp,43,"brisk walking,
+muscle strengthning activities"
+resting bp,44,"brisk walking,
+muscle strengthning activities"
+resting bp,45,"brisk walking,
+muscle strengthning activities"
+resting bp,46,"walking,
+jogging,
+light exercises"
+resting bp,47,"walking,
+jogging,
+light exercises"
+resting bp,48,"walking,
+jogging,
+light exercises"
+resting bp,49,"walking,
+jogging,
+light exercises"
+resting bp,50,"walking,
+jogging,
+light exercises"
+resting bp,51,"walking,
+jogging,
+light exercises"
+resting bp,52,"walking,
+jogging,
+light exercises"
+resting bp,53,"walking,
+jogging,
+light exercises"
+resting bp,54,"walking,
+jogging,
+light exercises"
+resting bp,55,"walking,
+jogging,
+light exercises"
+resting bp,56,"walking,
+jogging,
+light exercises"
+resting bp,57,"walking,
+jogging,
+light exercises"
+resting bp,58,"walking,
+jogging,
+light exercises"
+resting bp,59,"walking,
+jogging,
+light exercises"
+resting bp,60,"walking,
+jogging,
+light exercises"
+resting bp,61,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,62,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,63,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,64,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,65,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,66,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,67,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,68,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,69,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,70,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,71,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,72,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,73,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,74,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,75,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,76,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,77,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,78,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,79,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,80,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,81,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,82,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,83,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,84,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,85,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,86,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,87,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,88,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,89,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,90,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,91,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,92,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,93,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,94,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,95,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,96,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,97,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,98,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,99,"light exercises,
+yoga,
+light muscle strengthning activities"
+resting bp,100,"light exercises,
+yoga,
+light muscle strengthning activities"
