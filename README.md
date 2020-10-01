@@ -1,2 +1,2 @@
 # Personalised-Heart-Monitoring-and-Reporting-System
-Heart disease prediction based on various factors, comparison of algorithms, reporting of medication and drugs
+Heart disease prediction based on different elements, correlation of calculations, detailing of prescription and medications.
